@@ -191,3 +191,9 @@ id = "goodreads"
 title = "Goodreads"
 url = "https://www.goodreads.com/user/show/%s"
 icon = "fab fa-goodreads-g"
+
+[[social_icons]]
+id = "pinboard"
+title = "Pinboard"
+url = "https://pinboard.in/u:%s/public/"
+icon = "fa fa-thumbtack"
