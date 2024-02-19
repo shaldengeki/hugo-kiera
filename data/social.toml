@@ -185,3 +185,9 @@ id = "bga"
 title = "BoardGameArena"
 url = "https://boardgamearena.com/player?id=%s"
 icon = "fa fa-dice"
+
+[[social_icons]]
+id = "goodreads"
+title = "Goodreads"
+url = "https://www.goodreads.com/user/show/%s"
+icon = "fab fa-goodreads-g"
