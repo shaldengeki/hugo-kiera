@@ -179,3 +179,9 @@ id = "devto"
 url = "https://dev.to/%s"
 title = "devto"
 icon = "fab fa-dev"
+
+[[social_icons]]
+id = "bga"
+title = "BoardGameArena"
+url = "https://boardgamearena.com/player?id=%s"
+icon = "fab fa-dice"
